@@ -40,4 +40,4 @@ Repo | sample demo & description
 [JazzHands](https://github.com/IFTTT/JazzHands) | ![JazzHands1](assets/JazzHands1.gif)
 [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) | ![JVFloatLabeledTextField](assets/JVFloatLabeledTextField1.gif)
 [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) | ![NVActivityIndicatorView](assets/NVActivityIndicatorView1.gif)
-[RESideMenu](https://github.com/romaonthego/RESideMenu) | ![RESideMenu](asstes/RESideMenu1.gif)
+[RESideMenu](https://github.com/romaonthego/RESideMenu) | ![RESideMenu](assets/RESideMenu1.gif)
